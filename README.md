@@ -60,3 +60,5 @@ We use the last two points to make the path tangent to the path's previous endpo
 Finally, the computed waypoints (50 in total, indicated by the green line in the simulator) are transformed using spline, making it possible to have a curved/smooth trajectory instead of sudden/abrupt changes in direction (increasing the jerk that should be minimized).
 
 
+## Result
+![enter image description here](https://github.com/vincentbarrault/highway-driving/blob/master/res/Highway.gif?raw=true)
